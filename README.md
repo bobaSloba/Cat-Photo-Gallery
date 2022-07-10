@@ -1,0 +1,2 @@
+# Cat-Photo-Gallery
+Yet another project form freeCodeCamp. In this project i learned about flexbox and how to use it to position images , in a responsive way for different devices using CSS. It was a very fun project i enjoyed doing , also it was explained in a very simple way so i understood it vey well. Looking forward to the next project which i will also upload here to track my progress untill i get my first certificate.
